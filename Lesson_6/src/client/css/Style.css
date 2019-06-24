@@ -1,0 +1,22 @@
+* {
+    -fx-background-color: black;
+    -fx-text-fill: white;
+}
+
+#btn {
+    -fx-background-image: url("../images/send.png");
+    -fx-image: url("../images/send.png");
+}
+
+#ta {
+    -fx-background-color: #bbb529;
+}
+
+#btn:hover {
+    -fx-background-color: #bbbbbb;
+}
+
+#menu:hover, #style1:hover, #style2:hover{
+    -fx-background-color: #bbb529;
+}
+
